@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  post_start: 2021-01-24
+  post_end: 2021-01-24
+  all_date: 
+  memo: MyString
+
+two:
+  title: MyString
+  post_start: 2021-01-24
+  post_end: 2021-01-24
+  all_date: 
+  memo: MyString
